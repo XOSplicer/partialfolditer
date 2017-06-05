@@ -1,6 +1,10 @@
 [package]
-name = "partial-fold-iter"
+name = "partialfolditer"
 version = "0.1.0"
 authors = ["Felix Stegmaier <stegmaier.felix@gmail.com>"]
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+]
 
 [dependencies]
