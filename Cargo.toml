@@ -1,5 +1,6 @@
 [package]
 name = "partialfolditer"
+description = "Fold an Iterator and look at each fold step"
 version = "0.1.0"
 authors = ["Felix Stegmaier <stegmaier.felix@gmail.com>"]
 include = [
