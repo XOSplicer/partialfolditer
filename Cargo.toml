@@ -3,6 +3,8 @@ name = "partialfolditer"
 description = "Fold an Iterator and look at each fold step"
 version = "0.1.0"
 authors = ["Felix Stegmaier <stegmaier.felix@gmail.com>"]
+license = "unlicense"
+repository = "https://github.com/XOSplicer/partialfolditer"
 include = [
     "**/*.rs",
     "Cargo.toml",
